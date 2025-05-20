@@ -21,3 +21,8 @@ pip install -r requirements.txt
 2. Create a **service account** and generate a JSON key file.
 3. Rename the downloaded key to `credentials.json` and place it in the folder of this project. 
 4. Share my Google Sheet with your service account's email address (as an **Editor**).
+
+
+
+Link to my Google sheet: https://docs.google.com/spreadsheets/d/15-fXuQl3163AsnpNuQv0GypyAcfwtHPZ93MilefjPYk/edit?gid=0#gid=0
+Link to my project walkthrough: https://www.loom.com/share/a9acfc01cc0a4e3da73401d06445010f?sid=b5a7cdad-7286-4204-b2a4-5461678f3c83
